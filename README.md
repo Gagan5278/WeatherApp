@@ -2,7 +2,7 @@
 
 * Used Xcode Version 14.2
 * Used MVVM with coordinator design pattern.
-* Swift Code for generating UI. Managing storyboard is tough within a team.
+* Swift Code for generating UI. Managing storyboard is tough within a team. Used XIB files for cell & Custom UI (They can be replaced if required/asked). 
 *  https://openweathermap.org/api used for city search and weather search.
 * App includes 
   	1.	Search city screen: User can type any city name around the world. OpenWeather API used for retrieving city. 
