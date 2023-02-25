@@ -13,3 +13,17 @@
 
 * Test cases are written.
 * Use Of Combine framework for reactive programming and web service implementation. 
+
+## Screen Shots
+
+### Screen: Change Unit
+<img width="316" alt="search_city_screen" src="https://user-images.githubusercontent.com/2304583/221371210-3ac865f5-fc98-4f03-aac9-30802d9bcfef.png">
+
+### Screen: Search City Result
+<img width="323" alt="search_city_screen_searched" src="https://user-images.githubusercontent.com/2304583/221371217-e5b90b39-1ecf-4274-80f8-d94ec9168988.png">
+
+### Screen: Weather Detail screen with Save action alert (Plus button on Navigation bar)
+<img width="310" alt="weather_detail_screen" src="https://user-images.githubusercontent.com/2304583/221371226-285119f8-1c0c-42ea-99ee-54c310bdb146.png">
+
+### Screen: List of saved weather
+<img width="321" alt="saved_city_weather_screen" src="https://user-images.githubusercontent.com/2304583/221371232-53328abd-ca8f-4500-b753-f4815c347975.png">
