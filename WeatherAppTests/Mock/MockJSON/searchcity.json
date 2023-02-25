@@ -1,0 +1,42 @@
+[{
+    "name": "Thiergarten",
+    "local_names": {
+        "de": "Thiergarten"
+    },
+    "lat": 49.9043974,
+    "lon": 11.581118707253168,
+    "country": "DE",
+    "state": "Bavaria"
+}, {
+    "name": "Ou",
+    "local_names": {
+        "en": "Ou",
+        "lo": "ອູ້"
+    },
+    "lat": 19.7770688,
+    "lon": 101.976956,
+    "country": "LA",
+    "state": "Luang Prabang"
+}, {
+    "name": "T",
+    "lat": 45.460851,
+    "lon": -73.4788779,
+    "country": "CA",
+    "state": "Quebec"
+}, {
+    "name": "Teich",
+    "local_names": {
+        "hu": "Tó",
+        "de": "Teich"
+    },
+    "lat": 47.4091816,
+    "lon": 16.4289877,
+    "country": "AT",
+    "state": "Burgenland"
+}, {
+    "name": "Teich",
+    "lat": 51.2950271,
+    "lon": 9.6265284,
+    "country": "DE",
+    "state": "Hesse"
+}]
